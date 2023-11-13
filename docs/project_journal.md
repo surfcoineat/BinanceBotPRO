@@ -19,6 +19,7 @@ Today's session focused on establishing foundational aspects of the `BinanceBotP
 - Emphasized the importance of being in the right directory when working with Git, and the need to have a `.git` folder present to recognize a directory as a Git repository.
 
 #### **Next Steps**:
+- Set up docker environment
 - Continue building and documenting the `BinanceBotPRO` project.
 - Regularly update the `project_journal.md` and `learning_journal.md` to reflect progress and learning.
 - Start developing the basic functionalities of the Binance trading bot, focusing initially on API integration and basic trading strategy implementation.
