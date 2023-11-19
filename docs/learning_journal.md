@@ -1,3 +1,7 @@
+### Learning Journal Entry - 19.11.2023
+
+#### **Topic: Docker**
+- Docker is an invaluable tool for developers who seek a consistent environment for developments, testing, and deployments. But Docker is not limited to the developers, it will benefit anyone working in data field since new data tools rely on Docker and Kubernetes. My first application of Docker was necessary since I wanted to use SQL Server on my Mac machine but mac does not support it. The solution was to install a docker and create an image for sql server. This allowed me to work on Azure Data Studio. 
 
 ### Learning Journal Entry - 12.11.2023
 
